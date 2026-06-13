@@ -1,0 +1,49 @@
+[
+  {
+    "id": "item_001",
+    "name": "Худи Oversize Classic",
+    "article": "HD-001",
+    "category": "худи",
+    "price": 4900,
+    "available": true,
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": [
+      {"name": "чёрный", "in_stock": true},
+      {"name": "белый", "in_stock": true},
+      {"name": "серый меланж", "in_stock": false}
+    ],
+    "stores": ["Москва, ТЦ Авиапарк, 2 этаж", "Онлайн"],
+    "composition": "100% хлопок, 320г/м²"
+  },
+  {
+    "id": "item_002",
+    "name": "Футболка Essential",
+    "article": "TS-002",
+    "category": "футболка",
+    "price": 2200,
+    "available": true,
+    "sizes": ["S", "M", "L"],
+    "colors": [
+      {"name": "белый", "in_stock": true},
+      {"name": "чёрный", "in_stock": true},
+      {"name": "бежевый", "in_stock": true}
+    ],
+    "stores": ["Москва, ТЦ Авиапарк, 2 этаж", "Онлайн", "СПб, ТЦ Галерея"],
+    "composition": "95% хлопок, 5% эластан"
+  },
+  {
+    "id": "item_003",
+    "name": "Брюки Cargo Wide",
+    "article": "PT-003",
+    "category": "брюки",
+    "price": 6800,
+    "available": true,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      {"name": "хаки", "in_stock": true},
+      {"name": "чёрный", "in_stock": false}
+    ],
+    "stores": ["Онлайн"],
+    "composition": "100% хлопок"
+  }
+]
